@@ -1,0 +1,26 @@
+[
+  {
+    "email": "alpha@mailinator.com",
+    "password": "aplha123",
+    "username": "Aplha Xavieer",
+    "age": 23
+  },
+  {
+    "email": "beta@mail.com",
+    "password": "beta@123",
+    "username": "Beta CV",
+    "age": 35
+  },
+  {
+    "email": "gama@gmail.com",
+    "password": "gama@1234",
+    "username": "Gama ED",
+    "age": 20
+  },
+  {
+    "email": "delta@mailinator.com",
+    "password": "delta@123",
+    "username": "Delta WE",
+    "age": 19
+  }
+]
